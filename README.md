@@ -8,3 +8,4 @@
 2. [Temperatures](https://www.codingame.com/ide/puzzle/temperatures) (Difficulty : Easy)
 3. [POWER OF THOR](https://www.codingame.com/ide/puzzle/power-of-thor) (Difficulty : Easy)
 4. [Shadows of the Knight - Episode 1 - Puzzle discussion](https://www.codingame.com/ide/puzzle/shadows-of-the-knight-episode-1) (Difficulty : Medium)
+5. [ANEO SPONSORED PUZZLE](https://www.codingame.com/ide/puzzle/aneo) (Difficulty : Medium)
